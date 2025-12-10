@@ -67,5 +67,3 @@ When meaningful patterns are detected, the app **pushes insights** to the user (
 - npm/yarn/pnpm
 - [Supabase account](https://supabase.com) (free tier)
 
-### Installation
-
